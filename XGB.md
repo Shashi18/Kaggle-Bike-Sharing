@@ -1,11 +1,1 @@
-```python
-from IPython.display import Image
-Image(filename='img/merge.jpg')
-```
-
-
-
-
-![jpeg](output_0_0.jpeg)
-
-
+[Image of Yaktocat](https://github.com/Shashi18/Kaggle-Bike-Sharing/blob/update_1/merge.jpg)
