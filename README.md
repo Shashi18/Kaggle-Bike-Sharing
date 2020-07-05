@@ -1,6 +1,6 @@
 ```python
 from IPython.display import Image
-Image(filename='C://Users//Shashi Suman//Downloads//merge.jpg')
+Image(filename='merge.jpg')
 ```
 
 
